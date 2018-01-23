@@ -13,6 +13,7 @@ For a long time, our documentation consisted of our API documentation and README
 
 ## How to read this Wiki
 *Please go to Wiki to look through the documents*
+
 Ideally, this Wiki should read a bit like a Choose Your Own Adventure book - You start with page one and choose your way through the docs, depending on your preferences. At the end of most articles, you will find a section called What to read next?, where related articles are linked.
 
 ## Contributing to this Wiki
