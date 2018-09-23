@@ -2,7 +2,7 @@
 
 A Thoughtful HERC Knowledge Base
 
-![](https://github.com/HERCone/crowdsale/blob/master/herc.png)
+![HERC](https://cdn-images-1.medium.com/max/1600/1*ofXohOQfR4kdY6vnXv36jQ.jpeg)
 
 Join the [![Discord](https://img.shields.io/discord/102860784329052160.svg)](https://discord.gg/g52zM5)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
