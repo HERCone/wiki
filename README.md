@@ -12,7 +12,7 @@ Join the [![Discord](https://img.shields.io/discord/102860784329052160.svg)](htt
 For a long time, our documentation consisted of our API documentation and README. As a result, the README became simply too big to be useful. In an effort to change that, we moved large parts of our README into different Wiki articles. In the process, we improved the texts with additional information, clearer wording and some cross-references.
 
 ## How to read this Wiki
-*Please go to Wiki to look through the documents*
+* Please go to [Wiki](https://github.com/hercone/wiki/wiki) to look through the documents*
 
 Ideally, this Wiki should read a bit like a Choose Your Own Adventure book - You start with page one and choose your way through the docs, depending on your preferences. At the end of most articles, you will find a section called What to read next?, where related articles are linked.
 
